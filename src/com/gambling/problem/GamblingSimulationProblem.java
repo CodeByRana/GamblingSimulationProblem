@@ -5,8 +5,5 @@ public class GamblingSimulationProblem {
 
         System.out.println("Welcome To Gambling Simulator");
 
-        //constants
-        int BET=1;
-        int STAKE=100;
     }
 }
