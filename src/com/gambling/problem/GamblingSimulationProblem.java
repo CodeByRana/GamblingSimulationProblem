@@ -21,10 +21,8 @@ public class GamblingSimulationProblem {
     }
     public static void main(String[] args) {
 
-        System.out.println("Welcome To Gambling Simulator");
+        System.out.println("Welcome To Gambling Simulation");
+        dailyBet();
 
-        //constants
-        int BET=1;
-        int STAKE=100;
     }
 }
